@@ -1,2 +1,2 @@
 # hello-world
-The example project from github documentation
+The example project from github documentation.
